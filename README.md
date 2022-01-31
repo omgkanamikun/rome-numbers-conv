@@ -1,4 +1,3 @@
-# rome-numbers-conv
-Arab to Rome numbers converter
+# rome numbers converter
 
-There is Tree-map realisation Rome numbers converter
+Recursion tree-map implementation of arabic to roman numbers converter
